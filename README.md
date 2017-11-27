@@ -19,11 +19,18 @@ percobaan sudah dilakukan tapi masih tidak mengerti
   
 Orang sukses mencari jalan, orang gagal mencari alasan.  
 
+dapet tutorial minta Thomas
+https://gnu-mcu-eclipse.github.io/tutorials/blinky-arm/
+https://gnu-mcu-eclipse.github.io/
+
 program c dicopy paste dari Leonard Gozal
 
 tidak ada hasil build karna tidak ada softwarenya
+
 dari proses build akan didapat file .hex dan .elf (debug)
+
 connect binary file ke stm32f407 menggunakan stlink
+
 
 untuk yang minggu lalu, hasil LD4 Blink
 hasil foto :
