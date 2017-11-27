@@ -20,7 +20,9 @@ percobaan sudah dilakukan tapi masih tidak mengerti
 Orang sukses mencari jalan, orang gagal mencari alasan.  
 
 dapet tutorial minta Thomas
+
 https://gnu-mcu-eclipse.github.io/tutorials/blinky-arm/
+
 https://gnu-mcu-eclipse.github.io/
 
 program c dicopy paste dari Leonard Gozal
