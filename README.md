@@ -19,7 +19,7 @@ percobaan sudah dilakukan tapi masih tidak mengerti
   
 Orang sukses mencari jalan, orang gagal mencari alasan.  
 
-dapet tutorial minta Thomas
+tutorial didapat dari Thomas
 
 https://gnu-mcu-eclipse.github.io/tutorials/blinky-arm/
 
@@ -35,39 +35,22 @@ connect binary file ke stm32f407 menggunakan stlink
 
 
 untuk yang minggu lalu, hasil LD4 Blink
+
 hasil foto :
 
+Mikroprosesor/IMG_4585.JPG
+
+Mikroprosesor/IMG_4586.JPG
+
+Mikroprosesor/IMG_4587.JPG
+
+Mikroprosesor/IMG_4588.JPG
 
 
 untuk hari ini hasil dari blink *3/40*
+
 hasil foto :
 
+Mikroprosesor/IMG_4589.JPG
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Mikroprosesor/IMG_4590.JPG
