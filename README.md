@@ -19,3 +19,46 @@ percobaan sudah dilakukan tapi masih tidak mengerti
   
 Orang sukses mencari jalan, orang gagal mencari alasan.  
 
+program c dicopy paste dari Leonard Gozal
+
+tidak ada hasil build karna tidak ada softwarenya
+dari proses build akan didapat file .hex dan .elf (debug)
+connect binary file ke stm32f407 menggunakan stlink
+
+untuk yang minggu lalu, hasil LD4 Blink
+hasil foto :
+
+
+
+untuk hari ini hasil dari blink *3/40*
+hasil foto :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
