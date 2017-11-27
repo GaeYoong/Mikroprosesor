@@ -36,7 +36,7 @@ connect binary file ke stm32f407 menggunakan stlink
 
 untuk yang minggu lalu, hasil LD4 Blink
 hasil foto :
-
+908b418  
 
 
 untuk hari ini hasil dari blink *3/40*
